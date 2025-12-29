@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\30166\\documents\\unreal projects\\fifth_\\source\\fifth_\\myactor.cpp",
+        "Source": "c:\\users\\30166\\documents\\github\\fifth_\\fifth_\\source\\fifth_\\myactor.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\30166\\documents\\unreal projects\\fifth_\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fifth_\\definitions.fifth_.h",
-            "c:\\users\\30166\\documents\\unreal projects\\fifth_\\intermediate\\build\\win64\\x64\\fifth_editor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.h",
-            "c:\\users\\30166\\documents\\unreal projects\\fifth_\\source\\fifth_\\myactor.h",
+            "c:\\users\\30166\\documents\\github\\fifth_\\fifth_\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fifth_\\definitions.fifth_.h",
+            "c:\\users\\30166\\documents\\github\\fifth_\\fifth_\\intermediate\\build\\win64\\x64\\fifth_editor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.h",
+            "c:\\users\\30166\\documents\\github\\fifth_\\fifth_\\source\\fifth_\\myactor.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\coreminimal.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\coretypes.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\platform.h",
@@ -672,7 +672,7 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\misc\\paths.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\public\\worldpartition\\worldpartitionactordesctype.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\actor.generated.h",
-            "c:\\users\\30166\\documents\\unreal projects\\fifth_\\intermediate\\build\\win64\\unrealeditor\\inc\\fifth_\\uht\\myactor.generated.h",
+            "c:\\users\\30166\\documents\\github\\fifth_\\fifth_\\intermediate\\build\\win64\\unrealeditor\\inc\\fifth_\\uht\\myactor.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\engine.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\printstalereferencesoptions.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\world.h",

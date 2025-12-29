@@ -76,14 +76,14 @@ AMyActor::~AMyActor() {}
 // End Class AMyActor
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_30166_Documents_Unreal_Projects_Fifth__Source_Fifth__MyActor_h_Statics
+struct Z_CompiledInDeferFile_FID_Users_30166_Documents_GitHub_Fifth__Fifth__Source_Fifth__MyActor_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AMyActor, AMyActor::StaticClass, TEXT("AMyActor"), &Z_Registration_Info_UClass_AMyActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMyActor), 2977118668U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_30166_Documents_Unreal_Projects_Fifth__Source_Fifth__MyActor_h_118606974(TEXT("/Script/Fifth_"),
-	Z_CompiledInDeferFile_FID_Users_30166_Documents_Unreal_Projects_Fifth__Source_Fifth__MyActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_30166_Documents_Unreal_Projects_Fifth__Source_Fifth__MyActor_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_30166_Documents_GitHub_Fifth__Fifth__Source_Fifth__MyActor_h_118606974(TEXT("/Script/Fifth_"),
+	Z_CompiledInDeferFile_FID_Users_30166_Documents_GitHub_Fifth__Fifth__Source_Fifth__MyActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_30166_Documents_GitHub_Fifth__Fifth__Source_Fifth__MyActor_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

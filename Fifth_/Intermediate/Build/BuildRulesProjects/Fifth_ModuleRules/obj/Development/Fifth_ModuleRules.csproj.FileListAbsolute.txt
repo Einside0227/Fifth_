@@ -42,3 +42,6 @@ C:\Users\30166\Documents\Unreal Projects\Fifth_\Intermediate\Build\BuildRulesPro
 C:\Users\30166\Documents\Unreal Projects\Fifth_\Intermediate\Build\BuildRulesProjects\Fifth_ModuleRules\obj\Development\Fifth_ModuleRules.dll
 C:\Users\30166\Documents\Unreal Projects\Fifth_\Intermediate\Build\BuildRulesProjects\Fifth_ModuleRules\obj\Development\refint\Fifth_ModuleRules.dll
 C:\Users\30166\Documents\Unreal Projects\Fifth_\Intermediate\Build\BuildRulesProjects\Fifth_ModuleRules\obj\Development\Fifth_ModuleRules.pdb
+C:\Users\30166\Documents\GitHub\Fifth_\Fifth_\Intermediate\Build\BuildRulesProjects\Fifth_ModuleRules\obj\Development\Fifth_ModuleRules.dll
+C:\Users\30166\Documents\GitHub\Fifth_\Fifth_\Intermediate\Build\BuildRulesProjects\Fifth_ModuleRules\obj\Development\refint\Fifth_ModuleRules.dll
+C:\Users\30166\Documents\GitHub\Fifth_\Fifth_\Intermediate\Build\BuildRulesProjects\Fifth_ModuleRules\obj\Development\Fifth_ModuleRules.pdb

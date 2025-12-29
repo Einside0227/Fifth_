@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\30166\\documents\\unreal projects\\fifth_\\source\\fifth_\\fifth_.cpp",
+        "Source": "c:\\users\\30166\\documents\\github\\fifth_\\fifth_\\source\\fifth_\\fifth_.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\30166\\documents\\unreal projects\\fifth_\\intermediate\\build\\win64\\x64\\fifth_editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\30166\\documents\\github\\fifth_\\fifth_\\intermediate\\build\\win64\\x64\\fifth_editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\30166\\documents\\unreal projects\\fifth_\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fifth_\\definitions.fifth_.h",
-            "c:\\users\\30166\\documents\\unreal projects\\fifth_\\source\\fifth_\\fifth_.h"
+            "c:\\users\\30166\\documents\\github\\fifth_\\fifth_\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fifth_\\definitions.fifth_.h",
+            "c:\\users\\30166\\documents\\github\\fifth_\\fifth_\\source\\fifth_\\fifth_.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
